@@ -95,3 +95,8 @@ By leveraging these insights, HR teams can:
 This project highlights the power of Power BI in visualizing and analyzing HR metrics, helping organizations align HR strategy with business goals.
 
 ## Dashboard Preview
+
+Power BI : https://github.com/GeetaPalle/HR-Analytics-Dashboard/blob/main/Power%20BI%20Dashboard.png
+
+Tableau : https://github.com/GeetaPalle/HR-Analytics-Dashboard/blob/main/Tableau%20Dashboard.png
+
