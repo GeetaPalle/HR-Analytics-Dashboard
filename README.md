@@ -10,7 +10,7 @@ Employee data is one of the most valuable assets for organizations. By analyzing
 
 - Support data-driven HR decision-making.
 
-- The dashboard was built using Power BI, with cleaned and structured HR data to create interactive visualizations.
+- The dashboard was built using Power BI and Tableau, with cleaned and structured HR data to create interactive visualizations.
 
 ##  Key Insights from the Dashboard
 
@@ -92,7 +92,7 @@ By leveraging these insights, HR teams can:
 
 - Ensure better decision-making with data-driven insights.
 
-This project highlights the power of Power BI in visualizing and analyzing HR metrics, helping organizations align HR strategy with business goals.
+This project highlights the power of Power BI  and Tableau in visualizing and analyzing HR metrics, helping organizations align HR strategy with business goals.
 
 ## Dashboard Preview
 
